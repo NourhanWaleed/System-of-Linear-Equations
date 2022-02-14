@@ -1,0 +1,5 @@
+3
+Gaussian Jordan
+2*a + 3*b + c + 4
+4*a + b + 4*c - 9 
+3*a + 4*b + 6*c
